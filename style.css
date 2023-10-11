@@ -1,0 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+/*For heading*/
+/* font-family: 'Unbounded', sans-serif; */
+
+#heading_style{
+    display: inline-block;
+    font-family: 'Roboto',sans-serif;
+    
+}
